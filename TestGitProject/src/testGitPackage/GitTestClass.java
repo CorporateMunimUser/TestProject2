@@ -7,6 +7,7 @@ public class GitTestClass {
 		System.out.println("Git Code");
 		System.out.println("Git test branch");
 		System.out.println("Intigrated with Jenkin succesfully");
+		System.out.println("Intigrated with Jenkin succesfully");
 	}
 
 }
